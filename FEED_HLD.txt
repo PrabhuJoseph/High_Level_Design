@@ -1,0 +1,180 @@
+Feed API
+
+We want to build a feed reader application similar to feedly.com or the (now defunct) Google Reader. The
+system has 3 entities - users, feeds and articles. Users subscribe to feeds which have articles. The
+application is similar to Twitter except that articles are sourced externally (users do not generate content).
+
+1. Specify an API suitable for supporting both web and mobile front ends. Consider the following in detail:
+     A. subscribe / unsubscribe a user to / from a feed.
+     B. get the last N articles from each of the feeds a user is following (has subscribed to).
+     C. add articles to a feed. Note: you can assume a separate service exists that is responsible for feed
+        discovery and notifying our system of new articles - it is out of scope to design that service.
+
+2. Design the backend of the system.
+
+
+  Data Relationship:
+  
+  1. N Users - 10 million users
+  
+  2. Each User has N Feeds and has subscribed to 100 feeds -> Pagination -> 1 page: 10 feeds -> last N articles for each feed.
+  
+  3. Each Feed -> has to show last N Articles (cached) and M users has subscribed to the Feed.
+  
+  
+  Data Size:
+  
+  
+  10 miliion users (global)
+  
+  1 user - 100 feeds
+  
+  Distinct Feeds - 1 million feeds 
+  
+  
+  Relational Database -> Highly Availble -> Primary and Secondary Server with Centralized Storage
+  
+
+  table: user
+  
+  user_id
+  user_details
+  
+  
+  
+  table: subscriptions
+  
+  composite_key:
+  
+  user_id feed_id 
+  
+  
+  table: feed
+  
+  feed_id
+  feed_url
+  
+  
+  
+  Real articles - history -> NoSQL
+  
+  
+  Non Functional Requirements:
+  
+  1. Highly Available
+  
+  2. Performance: user1 -> 10 feeds -> Timeline fast -> latency 
+  
+  3. Eventual Consistency
+  
+  4. Security: Login Credentials - Authentication Service 
+  
+  5. Scalaibility - Scale out / Down - Load 
+  
+
+  
+  API Design:
+  
+  
+    Users -> User Service (Web Service)
+    
+    GET /ws/v1/users/feed
+    
+    Response:
+    json:
+    {
+    {
+    feed_id: ""
+    feed_url: ""
+      {
+        article_id: ""
+        text: ""
+      
+      }
+    },
+    {
+    }
+    
+    }
+    
+    
+    Home Page Render Service
+    
+    
+    10 million Users
+
+
+    Cache:
+    
+    Front Page for my frequent users
+    
+    Top Feeds - N Articles 
+    
+    
+    
+    subscribe - POST   /ws/v1/users/feed - https 
+    
+     body / query parameter : feed_id
+    
+     cookie / header - user identify 
+     
+     
+     401 -> unauthenticated user
+     
+     500 -> Internal Server Error
+      
+        
+     
+     200 -> Success
+     
+     404 -> Not Found
+          
+     
+    unsubscribe - DELETE /ws/v1/users/feed
+    
+     body / query parameter : feed_id
+    
+     cookie / header - user identify 
+     
+     
+     400 -> Bad Request
+         
+     401 -> unauthenticated user
+     
+     500 -> Internal Server Error
+     
+     200 -> Success
+     
+     404 -> Not Found
+          
+    
+    
+    Feed Service (Web Service)
+    
+    POST /ws/v1/feeds/article?feed_id=<>
+    
+        request body:
+        
+        json:
+        
+        title: ""
+        
+        text: ""
+        
+        
+       
+     400 -> Bad Request
+         
+     401 -> unauthenticated user
+     
+     403 -> 
+     
+     500 -> Internal Server Error
+     
+     200 -> Success
+     
+     404 -> Not Found
+    
+
+  
+  
