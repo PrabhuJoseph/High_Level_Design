@@ -1,0 +1,5 @@
+1. Leader Election, Log Entries - https://www.youtube.com/watch?v=ro2fU8_mr2w
+
+
+2. CAP Theorem - https://www.youtube.com/watch?v=8UryASGBiR4
+
