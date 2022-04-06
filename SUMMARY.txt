@@ -6,3 +6,10 @@
 
 3. Two Phase / Three Phase Commit Protocol - https://www.linkedin.com/pulse/main-difference-between-2pc-3pc-protocols-thiensi-le/
 
+4. Exactly Once Delivery - https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/
+
+   * Deduplication (drop message which already received by maintaining the last offset processed.
+   
+   * Idempotent Operations can ignore
+   
+
