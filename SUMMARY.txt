@@ -3,3 +3,6 @@
 
 2. CAP Theorem - https://www.youtube.com/watch?v=8UryASGBiR4
 
+
+3. Two Phase / Three Phase Commit Protocol - https://www.linkedin.com/pulse/main-difference-between-2pc-3pc-protocols-thiensi-le/
+
