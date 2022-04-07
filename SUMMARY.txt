@@ -12,4 +12,4 @@
    
    * Idempotent Operations can ignore
    
-
+5. ElasticSearch - Inverted Index, Lucene Index - https://www.youtube.com/watch?v=PpX7J-G2PEo
