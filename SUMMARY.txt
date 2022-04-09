@@ -21,3 +21,5 @@
 8. HBase - Secondary Index - https://medium.com/agile-lab-engineering/secondary-indexing-on-hbase-8a3acea394f0 
 
 9. Logging Infrastructure at Pinterest - https://www.youtube.com/watch?v=DphnpWVYeG8
+
+10. Airbnb Data Platform Architecture - https://www.youtube.com/watch?v=W_Sp4jo1ACg
