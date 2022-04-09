@@ -19,3 +19,5 @@
 7. HBase Multi-Conditional Query - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164097/
 
 8. HBase - Secondary Index - https://medium.com/agile-lab-engineering/secondary-indexing-on-hbase-8a3acea394f0 
+
+9. Logging Infrastructure at Pinterest - https://www.youtube.com/watch?v=DphnpWVYeG8
