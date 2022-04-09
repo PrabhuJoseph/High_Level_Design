@@ -17,3 +17,5 @@
 6. CockroacDB - Transactions on Key Value Store - https://www.youtube.com/watch?v=OJySfiMKXLs
 
 7. HBase Multi-Conditional Query - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164097/
+
+8. HBase - Secondary Index - https://medium.com/agile-lab-engineering/secondary-indexing-on-hbase-8a3acea394f0 
