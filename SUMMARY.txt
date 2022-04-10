@@ -41,3 +41,6 @@
 15. Bloom Filter - https://yetanotherdevblog.com/bloom-filters/
 
 16. Dense vs Sparse Index - https://yetanotherdevblog.com/dense-vs-sparse-indexes/
+
+17. Redis Streams - https://www.youtube.com/watch?v=Z8qcpXyMAiA
+
