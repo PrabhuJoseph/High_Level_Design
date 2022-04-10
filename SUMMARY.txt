@@ -37,3 +37,5 @@
 
 
 14. Log Structured Merge Tree (HBase-HFile, BigTable-SSTable, Cassandra) - https://yetanotherdevblog.com/lsm/
+
+15. Bloom Filter - https://yetanotherdevblog.com/bloom-filters/
