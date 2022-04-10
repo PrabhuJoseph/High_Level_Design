@@ -34,3 +34,6 @@
                                 
                                 
 13. Top K Hitters, Viewers, Tweets, Trending - https://www.youtube.com/watch?v=kx-XDoPjoHw (Count Min Sketch)
+
+
+14. Log Structured Merge Tree (HBase-HFile, BigTable-SSTable, Cassandra) - https://yetanotherdevblog.com/lsm/
