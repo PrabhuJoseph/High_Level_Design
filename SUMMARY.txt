@@ -44,3 +44,4 @@
 
 17. Redis Streams - https://www.youtube.com/watch?v=Z8qcpXyMAiA
 
+18. Distributed Message Queue - https://blog.devgenius.io/everything-about-distributed-message-queue-ae6597d84b36
