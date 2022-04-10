@@ -29,3 +29,5 @@
                                        - https://www.youtube.com/watch?v=FU4WlwfS3G0&t=967s
                                        
 12. Distributed Key Value Store - Sherpa in YAHOO - https://yahooeng.tumblr.com/post/120730204806/sherpa-scales-new-heights
+
+                                - Single Record or Partition level Transaction Support - Compare and Set the record  values - http://www.vldb.org/pvldb/vol12/p2300-cooper.pdf
