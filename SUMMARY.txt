@@ -23,3 +23,7 @@
 9. Logging Infrastructure at Pinterest - https://www.youtube.com/watch?v=DphnpWVYeG8
 
 10. Airbnb Data Platform Architecture - https://www.youtube.com/watch?v=W_Sp4jo1ACg
+
+11. Rate Limiter Using Gossip Protocol - https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo
+
+                                       - https://www.youtube.com/watch?v=FU4WlwfS3G0&t=967s
