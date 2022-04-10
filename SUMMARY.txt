@@ -8,6 +8,8 @@
 
 4. Exactly Once Delivery - https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/
 
+                         - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+
    * Deduplication (drop message which already received by maintaining the last offset processed.
    
    * Idempotent Operations can ignore
