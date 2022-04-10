@@ -47,3 +47,8 @@
 17. Redis Streams - https://www.youtube.com/watch?v=Z8qcpXyMAiA
 
 18. Distributed Message Queue - https://blog.devgenius.io/everything-about-distributed-message-queue-ae6597d84b36
+
+19. Google Docs - Colloborative Editing - Operational Transformation, Differential Synchronization - https://www.youtube.com/watch?v=2auwirNBvGg
+
+20. Google Drive - Sync the changes by chunks + Metadata of chunks - https://www.youtube.com/watch?v=U0xTu6E2CT8
+
