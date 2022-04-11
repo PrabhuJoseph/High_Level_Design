@@ -58,3 +58,5 @@
 
 22. Facebook - Distributed Memcached for fanout read operations to produce News Feed - https://www.youtube.com/watch?v=6phA3IAcEJ8
 
+23. Facebook - Distributed Data Store for the Social Graph - https://www.youtube.com/watch?v=sNIvHttFjdI
+
