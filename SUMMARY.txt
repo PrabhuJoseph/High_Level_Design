@@ -1,3 +1,5 @@
+
+
 1. Leader Election, Log Entries - https://www.youtube.com/watch?v=ro2fU8_mr2w
 
 
@@ -53,4 +55,6 @@
 20. Google Drive - Sync the changes by chunks + Metadata of chunks - https://www.youtube.com/watch?v=U0xTu6E2CT8
 
 21. Facebook - Celeberity Posts - Fanout Read vs Fanout Write - Hybrid Approach - https://liuzhenglaichn.gitbook.io/system-design/news-feed/design-a-news-feed-system
+
+22. Facebook - Distributed Memcached for fanout read operations to produce News Feed - https://www.youtube.com/watch?v=6phA3IAcEJ8
 
