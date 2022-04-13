@@ -60,3 +60,5 @@
 
 23. Facebook - Distributed Data Store for the Social Graph - https://www.youtube.com/watch?v=sNIvHttFjdI
 
+24. Airbnb Mock Design - https://www.youtube.com/watch?v=xaATn37Ar0c
+
