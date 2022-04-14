@@ -100,3 +100,5 @@
       Snapshort vs Serializable Isolation - https://www.geeksforgeeks.org/snapshot-isolation-vs-serializable/
       
       Two Phase Locking Protocol - https://www.geeksforgeeks.org/two-phase-locking-protocol/
+      
+      Check Constraints - https://stackoverflow.com/questions/2570756/what-are-database-constraints
