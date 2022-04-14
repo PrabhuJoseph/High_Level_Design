@@ -87,3 +87,10 @@
   Deadlock due to Repeatable Read - https://www.sqlpassion.at/archive/2014/12/15/possible-deadlocks-in-the-isolation-level-repeatable-read/
   
   
+  29. Optimistic and Pessimistic Locking - https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking
+  
+      Pessimistic Locking - Acquire the required Locks and proceed with the transaction. Lead to Deadlock. Get the update lock while reading itself.
+      
+      Optimistic Locking - Use Version for every record. This way transaction will fail if the version has changed in between. And has to resume from the beginning.
+  
+  
