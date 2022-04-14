@@ -102,3 +102,5 @@
       Two Phase Locking Protocol - https://www.geeksforgeeks.org/two-phase-locking-protocol/
       
       Check Constraints - https://stackoverflow.com/questions/2570756/what-are-database-constraints
+      
+      Optimistic Locking - CAS - https://stackoverflow.com/questions/22601503/what-is-cas-in-nosql-and-how-to-use-it
