@@ -83,3 +83,7 @@
                Read Committed Isolation level - see all reads but avoid Dirty Reads
                Repeatable Read - avoids Dirty and Nonrepeatable but phantom reads can appear
                Serializable - Avoid all above reads
+               
+  Deadlock due to Repeatable Read - https://www.sqlpassion.at/archive/2014/12/15/possible-deadlocks-in-the-isolation-level-repeatable-read/
+  
+  
