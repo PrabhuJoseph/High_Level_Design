@@ -131,6 +131,10 @@
   31. Uber BigData Platform - https://eng.uber.com/uber-big-data-platform/
   
   32. Uber System Design - https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc
+  
+                         - https://www.linkedin.com/pulse/uber-system-design-demysified-rajesh-s/
+                         
+                         - https://www.youtube.com/watch?v=umWABit-wbk&t=90s
      
      
      
