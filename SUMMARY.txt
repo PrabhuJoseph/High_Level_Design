@@ -106,3 +106,27 @@
       Optimistic Locking - CAS - https://stackoverflow.com/questions/22601503/what-is-cas-in-nosql-and-how-to-use-it
       
  30. ElasticSearch - https://www.knowi.com/blog/what-is-elastic-search/
+ 
+     ElasticSearch is used to index the rows/records from mysql/hbase - https://www.linkedin.com/pulse/hbase-solr-real-time-indexing-search-deepak/
+     
+     Film Table:
+     
+     id  film_name description director actor 
+     
+     1   Anbe Sivam Super film Kamal  Kamal
+     2   Guna       Best Moview Kamal Kamal
+     
+     
+     Id is the index in Mysql/NoSQL
+     
+     If you want to search with Kamal - how to retrieve the first two rows faster. Secondary Index / ElasticSearch is needed here. 
+     
+     Take the record and index it
+     
+     Anbe Sivam Super film Kamal  Kamal => 1
+     Guna       Best Moview Kamal Kamal => 2
+     
+     If someone searches with Kamal - it quickly gives 1 and 2
+     
+     
+     
