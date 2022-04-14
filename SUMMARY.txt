@@ -82,7 +82,9 @@
                Read Uncommitted - see all above reads
                Read Committed Isolation level - see all reads but avoid Dirty Reads
                Repeatable Read - avoids Dirty and Nonrepeatable but phantom reads can appear
-               Serializable - Avoid all above reads
+               Serializable - Avoid all above reads - Pessimitic Locking
+               Snapshort - Optimistic Locking
+               
                
   Deadlock due to Repeatable Read - https://www.sqlpassion.at/archive/2014/12/15/possible-deadlocks-in-the-isolation-level-repeatable-read/
   
@@ -94,3 +96,5 @@
       Optimistic Locking - Use Version for every record. This way transaction will fail if the version has changed in between. And has to resume from the beginning.
   
       Multi Version Concurrency Control - https://www.youtube.com/watch?v=sxabCqWsFHg
+      
+      Snapshort vs Serializable Isolation - https://www.geeksforgeeks.org/snapshot-isolation-vs-serializable/
