@@ -66,3 +66,4 @@
 
 26. Google Maps - Route Service, ETA Service - https://www.youtube.com/watch?v=lOcqPEOROwQ
 
+27. Database Transactions and Avoid Deadlock - https://arctype.com/blog/database-deadlock/
