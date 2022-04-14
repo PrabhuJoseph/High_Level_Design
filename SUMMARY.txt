@@ -67,3 +67,19 @@
 26. Google Maps - Route Service, ETA Service - https://www.youtube.com/watch?v=lOcqPEOROwQ
 
 27. Database Transactions and Avoid Deadlock - https://arctype.com/blog/database-deadlock/
+
+28. Transaction Isolation levels:  https://docs.oracle.com/cd/B19306_01/server.102/b14220/consist.htm
+
+                                   https://sqlperformance.com/2014/04/t-sql-queries/the-repeatable-read-isolation-level
+                                   
+                                   
+               Dirty reads - uncomitted data
+               Nonrepeatable reads - modified or deleted data
+               Phantom reads - new inserted data
+               
+               Isolation Level:
+               
+               Read Uncommitted - see all above reads
+               Read Committed Isolation level - see all reads but avoid Dirty Reads
+               Repeatable Read - avoids Dirty and Nonrepeatable but phantom reads can appear
+               Serializable - Avoid all above reads
