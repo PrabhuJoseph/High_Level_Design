@@ -93,4 +93,4 @@
       
       Optimistic Locking - Use Version for every record. This way transaction will fail if the version has changed in between. And has to resume from the beginning.
   
-  
+      Multi Version Concurrency Control - https://www.youtube.com/watch?v=sxabCqWsFHg
