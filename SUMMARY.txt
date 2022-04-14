@@ -98,3 +98,5 @@
       Multi Version Concurrency Control - https://www.youtube.com/watch?v=sxabCqWsFHg
       
       Snapshort vs Serializable Isolation - https://www.geeksforgeeks.org/snapshot-isolation-vs-serializable/
+      
+      Two Phase Locking Protocol - https://www.geeksforgeeks.org/two-phase-locking-protocol/
