@@ -129,6 +129,8 @@
      If someone searches with Kamal - it quickly gives 1 and 2
      
   31. Uber BigData Platform - https://eng.uber.com/uber-big-data-platform/
+  
+  32. Uber System Design - https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc
      
      
      
