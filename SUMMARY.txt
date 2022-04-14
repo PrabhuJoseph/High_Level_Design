@@ -104,3 +104,5 @@
       Check Constraints - https://stackoverflow.com/questions/2570756/what-are-database-constraints
       
       Optimistic Locking - CAS - https://stackoverflow.com/questions/22601503/what-is-cas-in-nosql-and-how-to-use-it
+      
+ 30. ElasticSearch - https://www.knowi.com/blog/what-is-elastic-search/
