@@ -135,6 +135,10 @@
                          - https://www.linkedin.com/pulse/uber-system-design-demysified-rajesh-s/
                          
                          - https://www.youtube.com/watch?v=umWABit-wbk&t=90s
+                         
+   33. Kafka - https://medium.com/inspiredbrilliance/kafka-basics-and-core-concepts-5fd7a68c3193
+   
+             - 
      
      
      
