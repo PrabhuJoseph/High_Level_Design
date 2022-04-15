@@ -138,6 +138,8 @@
                          
    33. Kafka - https://medium.com/inspiredbrilliance/kafka-basics-and-core-concepts-5fd7a68c3193
    
+             - Consumer Group (Join/Sync/Leave/Hearbeat) - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
+   
              - 
      
      
