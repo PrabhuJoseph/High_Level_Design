@@ -141,6 +141,8 @@
              - Consumer Group (Join/Sync/Leave/Hearbeat) - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
              
              - Partition Assigner - https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
+             
+   34. Distributed Leaderboard for Quiz Contest - Redis Sorted Set - https://engg.glance.com/how-we-built-a-distributed-leaderboard-system-in-a-week-c8b1a63083ed
    
              - 
      
