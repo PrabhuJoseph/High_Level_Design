@@ -107,7 +107,9 @@
       
       Optimistic Locking - CAS - https://stackoverflow.com/questions/22601503/what-is-cas-in-nosql-and-how-to-use-it
       
- 30. ElasticSearch Read - Relevant Score, Return local and global top using PriorityQueue - https://www.youtube.com/watch?v=xKI1lYmtPP4
+ 30. ElasticSearch - Term Frequency, Document Frequency, Score - https://www.youtube.com/watch?v=fcIzAg63WyI&t=289s
+ 
+     ElasticSearch Read - Relevant Score, Return local and global top using PriorityQueue - https://www.youtube.com/watch?v=xKI1lYmtPP4
  
      ElasticSearch - https://www.knowi.com/blog/what-is-elastic-search/
  
