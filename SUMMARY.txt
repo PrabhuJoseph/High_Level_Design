@@ -107,7 +107,9 @@
       
       Optimistic Locking - CAS - https://stackoverflow.com/questions/22601503/what-is-cas-in-nosql-and-how-to-use-it
       
- 30. ElasticSearch - https://www.knowi.com/blog/what-is-elastic-search/
+ 30. ElasticSearch Read - Relevant Score, Return local and global top using PriorityQueue - https://www.youtube.com/watch?v=xKI1lYmtPP4
+ 
+     ElasticSearch - https://www.knowi.com/blog/what-is-elastic-search/
  
      ElasticSearch is used to index the rows/records from mysql/hbase - https://www.linkedin.com/pulse/hbase-solr-real-time-indexing-search-deepak/
      
