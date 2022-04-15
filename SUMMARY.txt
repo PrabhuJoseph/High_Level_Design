@@ -19,6 +19,8 @@
 5. ElasticSearch - Inverted Index, Lucene Index - https://www.youtube.com/watch?v=PpX7J-G2PEo
 
                  - Update and Delete - https://www.youtube.com/watch?v=1NXnj8DcAgI
+                 
+                 - Write Operations - https://www.youtube.com/watch?v=zIGijbItITs
 
 6. CockroacDB - Transactions on Key Value Store - https://www.youtube.com/watch?v=OJySfiMKXLs
 
