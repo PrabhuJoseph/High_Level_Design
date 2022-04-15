@@ -1,5 +1,7 @@
 
 
+1. Yelp or Nearby Proximity Service - https://medium.com/double-pointer/system-design-interview-yelp-or-nearby-proximity-service-5258359c421c
+
 1. Leader Election, Log Entries - https://www.youtube.com/watch?v=ro2fU8_mr2w
 
 
