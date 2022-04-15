@@ -147,6 +147,8 @@
    34. Distributed Leaderboard for Quiz Contest - Redis Sorted Set - https://engg.glance.com/how-we-built-a-distributed-leaderboard-system-in-a-week-c8b1a63083ed
    
    35. Amazon System Design - https://www.youtube.com/watch?v=2BWr0fsDSs0
+   
+                            - https://medium.com/@kethan.pothula/amazon-system-design-and-architecture-d787a6572f35
              - 
              
    36. Redis Distributed Sorted Set - https://medium.com/analytics-vidhya/redis-sorted-sets-explained-2d8b6302525
