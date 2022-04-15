@@ -139,6 +139,8 @@
    33. Kafka - https://medium.com/inspiredbrilliance/kafka-basics-and-core-concepts-5fd7a68c3193
    
              - Consumer Group (Join/Sync/Leave/Hearbeat) - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
+             
+             - Partition Assigner - https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
    
              - 
      
