@@ -18,6 +18,8 @@
    
 5. ElasticSearch - Inverted Index, Lucene Index - https://www.youtube.com/watch?v=PpX7J-G2PEo
 
+                 - Update and Delete - https://www.youtube.com/watch?v=1NXnj8DcAgI
+
 6. CockroacDB - Transactions on Key Value Store - https://www.youtube.com/watch?v=OJySfiMKXLs
 
 7. HBase Multi-Conditional Query - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164097/
@@ -152,6 +154,8 @@
              - 
              
    36. Redis Distributed Sorted Set - https://medium.com/analytics-vidhya/redis-sorted-sets-explained-2d8b6302525
+   
+   
      
      
      
