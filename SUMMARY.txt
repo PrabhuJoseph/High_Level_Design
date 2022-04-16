@@ -165,6 +165,8 @@
    
    37. Twitter Snowflake - https://medium.com/double-pointer/system-design-interview-scalable-unique-id-generator-twitter-snowflake-or-a-similar-service-18af22d74343
    
+   38. Storing Hierarchical Data (Like FileSystem) in Database - https://graybox.co/knowledge/blog/storing-hierarchical-data-in-a-database
+   
    
      
      
