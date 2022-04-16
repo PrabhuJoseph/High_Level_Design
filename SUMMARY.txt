@@ -168,6 +168,8 @@
    38. Storing Hierarchical Data (Like FileSystem) in Database - https://graybox.co/knowledge/blog/storing-hierarchical-data-in-a-database
    
                                                                - https://www.databasestar.com/hierarchical-data-sql/
+                                                               
+   39. Online Chess - https://medium.com/double-pointer/system-design-interview-a-two-player-online-chess-game-4a150ad8ea78
    
    
      
