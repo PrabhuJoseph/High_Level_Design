@@ -163,6 +163,8 @@
              
    36. Redis Distributed Sorted Set - https://medium.com/analytics-vidhya/redis-sorted-sets-explained-2d8b6302525
    
+   37. Twitter Snowflake - https://medium.com/double-pointer/system-design-interview-scalable-unique-id-generator-twitter-snowflake-or-a-similar-service-18af22d74343
+   
    
      
      
