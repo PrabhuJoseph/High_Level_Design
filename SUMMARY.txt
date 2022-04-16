@@ -167,6 +167,8 @@
    
    38. Storing Hierarchical Data (Like FileSystem) in Database - https://graybox.co/knowledge/blog/storing-hierarchical-data-in-a-database
    
+                                                               - https://www.databasestar.com/hierarchical-data-sql/
+   
    
      
      
