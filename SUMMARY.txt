@@ -175,6 +175,10 @@
    
                  First Come First Serve, Shortest Seek time, Look Algorithm (Up and Down)
    
+   41. Garbage Collection System - Mark and Sweep - Traverse the heap array (or stack) to check the referenced objects in heap
+                                   Reference Counting 
+                                   
+                                   https://medium.com/double-pointer/system-design-interview-designing-a-garbage-collection-system-81a54eb1a582
    
      
      
