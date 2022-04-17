@@ -70,6 +70,8 @@
 
 25. Uber - Location Tracking - https://www.youtube.com/watch?v=jItLuOTsCX4
 
+           System Design - https://manishs-kth.medium.com/uber-system-design-interview-b4e1c97efe82
+
 26. Google Maps - Route Service, ETA Service - https://www.youtube.com/watch?v=lOcqPEOROwQ
 
 27. Database Transactions and Avoid Deadlock - https://arctype.com/blog/database-deadlock/
@@ -186,6 +188,8 @@
        * Content-Based Filtering, Colloborative Filtering
        * Classification and K-Means Clustering Algorithms
        
+       
+    
    
      
      
