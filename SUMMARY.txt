@@ -179,6 +179,13 @@
                                    Reference Counting 
                                    
                                    https://medium.com/double-pointer/system-design-interview-designing-a-garbage-collection-system-81a54eb1a582
+                                   
+   43. Recommendation System - https://medium.com/double-pointer/system-design-interview-recommendation-system-design-as-used-by-youtube-netflix-etc-c457aaec3ab
+   
+       * Implicit and Explicit Feedback
+       * Content-Based Filtering, Colloborative Filtering
+       * Classification and K-Means Clustering Algorithms
+       
    
      
      
