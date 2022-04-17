@@ -171,6 +171,10 @@
                                                                
    39. Online Chess - https://medium.com/double-pointer/system-design-interview-a-two-player-online-chess-game-4a150ad8ea78
    
+   40. Elevator - https://medium.com/double-pointer/system-design-interview-elevator-system-for-a-multi-storey-building-b854e766adc7
+   
+                 First Come First Serve, Shortest Seek time, Look Algorithm (Up and Down)
+   
    
      
      
