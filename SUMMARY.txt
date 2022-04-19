@@ -196,6 +196,8 @@
    45. Google Photos - https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36
    
    46. TCP and UDP - https://medium.com/interviewnoodle/system-design-communication-683a233de931
+   
+   47. Distributed Metrics and Logging System - https://www.youtube.com/watch?v=aiSoZBfFk0M
        
     
    
