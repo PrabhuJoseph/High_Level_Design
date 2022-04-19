@@ -192,6 +192,8 @@
        * Classification and K-Means Clustering Algorithms
        
    44. Discord - Index Billions of Messages to provide Search API - https://blog.discord.com/how-discord-indexes-billions-of-messages-e3d5e9be866f
+   
+   45. Google Photos - https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36
        
     
    
