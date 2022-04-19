@@ -1,4 +1,7 @@
 
+1. Google Maps - https://mecha-mind.medium.com/system-design-google-maps-c9dddca72df5
+
+   QuadTree, GeoHash, Grids, Dijkstra Algorithm, BiDirectional Algorithm, A* Algorithm
 
 1. Yelp or Nearby Proximity Service - https://medium.com/double-pointer/system-design-interview-yelp-or-nearby-proximity-service-5258359c421c
 
