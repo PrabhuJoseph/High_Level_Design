@@ -229,5 +229,7 @@
    51. Document DB - MongoDB - How data is stored? - https://www.mongodb.com/community/forums/t/where-is-my-data-stored/735/10
    
        Check BSON
+       
+   52. Android - App Manager
      
      
