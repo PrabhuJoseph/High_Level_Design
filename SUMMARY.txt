@@ -211,6 +211,8 @@
       Range Based Sharding works well for range queries
       
   50. GMAIL - Check how it works
+  
+      https://www.interserver.net/tips/kb/exactly-emails-works-steps-explanation/
    
      
      
