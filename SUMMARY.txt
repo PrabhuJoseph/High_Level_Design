@@ -226,5 +226,8 @@
       Capacity is based on the available storage. The servers can either have local hard disks or can use external storage systems (DAS, NAS, SAN, etc.).
    
      
+   51. Document DB - MongoDB - How data is stored? - https://www.mongodb.com/community/forums/t/where-is-my-data-stored/735/10
+   
+       Check BSON
      
      
