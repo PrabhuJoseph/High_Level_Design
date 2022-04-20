@@ -213,6 +213,15 @@
   50. GMAIL - Check how it works
   
       https://www.interserver.net/tips/kb/exactly-emails-works-steps-explanation/
+      
+      How Mails are stored:
+      
+      Email data on servers is stored as files or in databases or in a combination of both.
+
+      The most common mailbox formats on Unix and Linux systems are Mbox and Maildir. All messages in an Mbox mailbox are 
+      concatenated and stored as plain text in a  single file. In case of Maildir format, each message is kept in a separate file with a unique name.
+
+      Capacity is based on the available storage. The servers can either have local hard disks or can use external storage systems (DAS, NAS, SAN, etc.).
    
      
      
