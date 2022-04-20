@@ -210,7 +210,9 @@
   
       Range Based Sharding works well for range queries
       
-  50. GMAIL - Check how it works
+  50. GMAIL - Check how it works - https://superuser.com/questions/25799/email-clients-vs-webmail-which-use-which-protocols
+  
+      All Mail Servers uses POP3/IMAP + SMTP for the actual transfer
   
       https://www.interserver.net/tips/kb/exactly-emails-works-steps-explanation/
       
