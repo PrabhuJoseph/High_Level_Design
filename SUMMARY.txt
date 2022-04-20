@@ -209,6 +209,8 @@
   49. Consistent Hashing vs Range Based Sharding - https://blog.yugabyte.com/four-data-sharding-strategies-we-analyzed-in-building-a-distributed-sql-database/
   
       Range Based Sharding works well for range queries
+      
+  50. GMAIL - Check how it works
    
      
      
