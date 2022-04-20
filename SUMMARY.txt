@@ -198,6 +198,12 @@
    46. TCP and UDP - https://medium.com/interviewnoodle/system-design-communication-683a233de931
    
    47. Distributed Metrics and Logging System - https://www.youtube.com/watch?v=aiSoZBfFk0M
+   
+   48. Distributed atomic counters:
+   
+       Use multiple locks, instead of one. Split one counter into multiple sub-counters. Each writer choose one to update. Then sum them up. Thus less frequent locking might happen. 
+       
+       Use MQ + batch updates. Serialize all updates requests into a queue. Then use a single write strategy to update it. When update the counter, batch multiple updates as one.
        
     
    
