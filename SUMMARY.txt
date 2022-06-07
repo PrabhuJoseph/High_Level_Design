@@ -237,4 +237,6 @@
    
      Checkpoint (Hash Based and RocksDB based) - https://www.youtube.com/watch?v=dWQ24wERItM
      
+     Flink EventTime & WaterMark - http://vishnuviswanath.com/flink_eventtime.html
+     
      
