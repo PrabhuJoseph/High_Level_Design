@@ -239,4 +239,6 @@
      
      Flink EventTime & WaterMark - http://vishnuviswanath.com/flink_eventtime.html
      
+     Flink Network Stack - https://flink.apache.org/2019/06/05/flink-network-stack.html
+     
      
